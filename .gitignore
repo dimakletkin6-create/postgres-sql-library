@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
